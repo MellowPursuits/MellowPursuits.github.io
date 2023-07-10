@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Travel Explorer</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Travel Explorer</h1>
+    <p>Discover amazing destinations and plan your next adventure!</p>
+  </header>
+  
+  <main>
+    <section>
+      <h2>About Us</h2>
+      <p>Travel Explorer is your ultimate guide to exploring the world. We provide detailed information, travel tips, and inspiration for your next journey.</p>
+    </section>
+    
+    <section>
+      <h2>Popular Destinations</h2>
+      <ul>
+        <li>Paris</li>
+        <li>Tokyo</li>
+        <li>Rome</li>
+        <li>New York City</li>
+      </ul>
+    </section>
+    
+    <section>
+      <h2>Contact Us</h2>
+      <p>Have any questions or suggestions? We'd love to hear from you! Contact our team at info@travelexplorer.com.</p>
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 Travel Explorer. All rights reserved.</p>
+  </footer>
+</body>
+</html>
